@@ -14,7 +14,11 @@ Filters elements in an array based on a provided callback function.
 Reduces an array to a single value using a callback function. An initial value can be provided.
 ### `mineMap(arr, callback)`
 Maps each element in an array to a new value using a callback function.
+![285602093-3a12426e-17f7-4f21-9846-eabe029e720c](https://github.com/bagheladarsh007/oops-cw/assets/142333682/0361fd85-2ec9-4ad1-af56-0f08e5645a50)
+![285602115-7fd601f3-06f1-4bd3-a9e9-adb14546a1a2](https://github.com/bagheladarsh007/oops-cw/assets/142333682/af923263-5cb8-45ff-a47f-784a88282994)
 
+![285602144-48f93460-2ce9-4077-8186-01c8f3cdf5c0](https://github.com/bagheladarsh007/oops-cw/assets/142333682/d8a7fa8f-0172-4f64-a35a-39407314dc93)
+![285602174-bdb87ec5-c4a5-4b87-8fe2-2372382a2e84](https://github.com/bagheladarsh007/oops-cw/assets/142333682/7cbd39b1-71cc-4a6b-95f1-6a0d8cbe207a)
 
 
 
